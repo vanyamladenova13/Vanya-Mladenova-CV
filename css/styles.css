@@ -8,17 +8,18 @@
 body {
 	font-family: 'Lora', serif, Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #FADDDB;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
     background-color: lightskyblue;
+	color: white;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #E0A6E3;
 }
 
 .resume-aside {
